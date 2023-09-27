@@ -11,7 +11,7 @@ openai_api_key = st.sidebar.text_input('OpenAI API Key')
 # Define a function to generate a response using the OpenAI model from LangChain
 def generate_response(input_text):
   # Initialize the OpenAI model with the provided API key and a temperature of 0.7
-  llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key)
+  llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key, model_name="gpt-3.5-turbo")
   # Display the model's response in an info box on the app
   st.info(llm(input_text))
 
