@@ -3,7 +3,7 @@ import streamlit as st
 from langchain.llms import OpenAI
 
 # Set the title of the Streamlit app
-st.title('🦜🔗 Quickstart App')
+st.title('🦜🔗 Q&A Bot-Prototype')
 
 # Create a sidebar input where the user can enter their OpenAI API Key
 openai_api_key = st.sidebar.text_input('OpenAI API Key')
