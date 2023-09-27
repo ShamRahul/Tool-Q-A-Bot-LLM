@@ -24,6 +24,7 @@ Running the App
 3. Submit: Click the submit button to generate a response using the OpenAI model.
 
 🤝 Contributing
+
 Feel free to fork the project, make changes, and open a pull request if you think your changes should be included in the main project.
 
 
