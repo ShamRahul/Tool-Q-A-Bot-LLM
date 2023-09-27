@@ -23,6 +23,10 @@ Running the App
 2. Enter Text: Use the text area to input the text you want to process.
 3. Submit: Click the submit button to generate a response using the OpenAI model.
 
+🙏 Acknowledgements
+
+Streamlit Blog for knowledge sharing.
+
 🤝 Contributing
 
 Feel free to fork the project, make changes, and open a pull request if you think your changes should be included in the main project.
