@@ -1,4 +1,4 @@
-# Tool-Q-A-Bot-LLM
+# LLM-Tool-Q-A-Bot
 Prototyping tool of Q&amp;A bot for AI Product Managers
 
 This repository contains a simple and interactive Streamlit app that utilizes the LangChain library to interact with OpenAI models. Users can input text and generate responses using the OpenAI model from LangChain.
